@@ -1,5 +1,6 @@
 v = 10 ** 4
 print(v)
+
 #name = input("youre name")
 #print("youre name is ", name)
 
