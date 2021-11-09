@@ -1,7 +1,7 @@
 v = 10 ** 4
 print(v)
 
-name = input("youre name")
+name = input("Hello! Youre name?")
 print("youre name is ", name)
 
 answer = input("Let's do ? (Y/N) ")
